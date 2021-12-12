@@ -1,2 +1,1 @@
 # grapql-sample
-Sample test
